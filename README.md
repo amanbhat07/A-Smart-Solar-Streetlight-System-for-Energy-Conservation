@@ -1,1 +1,1 @@
-# A-Smart-Solar-Streetlight-System-for-Energy-Conservation
+Developed a IoT based smart streetlight model with real-time data moitoring using wifi conectivity using Esp-32-wroom mictocontroller, IR sensors, LDR sensor and Solar charging module for Energy Conservation an Enhanced Security. This project has been filed for patent and its Application number is (202311054299 A)
